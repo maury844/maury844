@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi there! 👋, I'm Mauricio</h1>
+<h3 align="center">A software developer from Bolivia</h3>
 
-<!--
-**maury844/maury844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 What I think I'm good at
+- Frontend development (Angular)
+- Hybrid mobile (with Ionic)
+- Backend development (with C#)
 
-Here are some ideas to get you started:
+## 📅 What I enjoy
+- Solve coding challenges at LeetCode
+- Continous learning / development
+- Videogames
+- Soccer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently learning
+- UX/UI Design
+- Finance
+- Machine Learning / Artificial Intelligence
+
